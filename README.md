@@ -13,7 +13,7 @@ The files in here are `.bsk` files which is the source format used by Bespoke Sy
 Most of the files are just messing around to understand the product with these notable exceptions:
 
 - [5 - An actual track with sequenced events](5%20-%20An%20actual%20track%20with%20sequenced%20events.bsk)
-  - Somebody may find this useful as it demonstrate some of the following
+  - Somebody may find this useful as it demonstrates some of the following
     - Sequencers and chorders for Drums, bass, two rhythms and a lead
     - Various synths and audio effects
     - Use of the event canvas module to build the track (fade-in, cut the kick midway, fade-out)
