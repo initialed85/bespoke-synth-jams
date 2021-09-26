@@ -14,6 +14,15 @@ Most of the files are just messing around to understand the product with these n
 
 - [5 - An actual track with sequenced events](5%20-%20An%20actual%20track%20with%20sequenced%20events.bsk)
   - Somebody may find this useful as it demonstrates some of the following
-    - Sequencers and chorders for Drums, bass, two rhythms and a lead
+    - Sequencers and chorders for drums, bass, two rhythms and a lead
     - Various synths and audio effects
     - Use of the event canvas module to build the track (fade-in, cut the kick midway, fade-out)
+      - Adjusting volume levels only
+    - I don't mind this one as a track to be honest
+
+- [9 - Trying to sequence multiple sequences](9%20-%20Trying%20to%20sequence%20multiple%20sequences.bsk)
+  - Somebody may find this useful as it demonstrates some of the following
+    - Sequencers and chorders for drums and a lead
+    - Various synths and audio effects
+    - Use of the radio sequencer to rotate through drum and lead sequenes
+    - This one is pretty much garbage but demonstrates complex sequencing at least
