@@ -12,7 +12,7 @@ The files in here are `.bsk` files which are the source format used by Bespoke S
 
 Most of the files are just messing around to understand the product with these notable exceptions:
 
-- [5 - An actual track with sequenced events](./"5 - An actual track with sequenced events.bsk")
+- [5 - An actual track with sequenced events](5%20-%2An%2actual%2track%2with%2sequenced%2events.bsk)
   - Somebody may find this useful as it demonstrate some of the following
     - Sequencers and chorders for Drums, bass, two rhythms and a lead
     - Various synths and audio effects
