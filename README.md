@@ -23,3 +23,6 @@ Most of the files are just messing around to understand the product with these n
 - [11 - Alright let's try make something good with MIDI out](11%20-%20Alright%20let's%20try%20make%20something%20good%20with%20MIDI%20out.bsk)
   - Use of the radio sequencer to rotate through chord patterns
     - Toggles note gates to filter notes entering chorders with converged outputs
+
+- [17 - MIDI and Helm and Vital.bsk](17%20-%20MIDI%20and%20Helm%20and%20Vital.bsk)
+  - Use of Helm and Vital as VSTs (you'll need to source these on your own)
