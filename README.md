@@ -26,3 +26,7 @@ Most of the files are just messing around to understand the product with these n
 
 - [17 - MIDI and Helm and Vital.bsk](17%20-%20MIDI%20and%20Helm%20and%20Vital.bsk)
   - Use of Helm and Vital as VSTs (you'll need to source these on your own)
+
+- [18 - Haha wtf is this it's so happy](18%20-%20Haha%20wtf%20is%20this%20it's%20so%20happy.bsk)
+  - Use of Vital as VST (you'll need to source this)
+  - Using a note canvas where I'd normally use a sequencer
