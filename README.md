@@ -30,3 +30,9 @@ Most of the files are just messing around to understand the product with these n
 - [18 - Haha wtf is this it's so happy](18%20-%20Haha%20wtf%20is%20this%20it's%20so%20happy.bsk)
   - Use of Vital as VST (you'll need to source this)
   - Using a note canvas where I'd normally use a sequencer
+
+## Update
+
+I stopped keeping track of anything notable (in this file I mean) but feel free to check out the `.bsk` files.
+
+I mostly just use Ableton these days, check out [my SoundCloud](https://soundcloud.com/initialed85/) if you like.
